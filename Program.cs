@@ -5,9 +5,6 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
-// Usa o roteamento de controladores
-app.MapControllers();
-
 app.MapGet("/", () => "Hello World!");
 
 app.Run();
