@@ -1,0 +1,7 @@
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.AssemblyInfo.cs
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Igorh\OneDrive\Documentos\apitest\MyApi\obj\Debug\net9.0\MyApi.sourcelink.json
