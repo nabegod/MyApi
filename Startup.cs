@@ -1,8 +1,11 @@
+using MyApi.ApiData;
 public class Startup
 {
     public void ConfigureServices(IServiceCollection services)
     {
-        // Adicione serviços aqui
+        services.AddControllers();
+        services.AddDbContext<AppDbContext>();
+        // Add other services as needed
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -16,10 +19,10 @@ public class Startup
 
         app.UseEndpoints(endpoints =>
         {
-            endpoints.MapGet("/", async context =>
-            {
-                await context.Response.WriteAsync("Hello World!");
-            });
+            endpoints.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}" // Default route for ApiController
+            );
         });
     }
 }

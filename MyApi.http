@@ -1,0 +1,11 @@
+### Teste do ApiController (listar apis)
+GET http://localhost:5164/api/v1/apis
+
+### Criar novo Api
+POST http://localhost:5164/api/v1/apis
+Content-Type: application/json
+
+{
+  "title": "Meu primeiro ghasgajhsj"
+}
+
