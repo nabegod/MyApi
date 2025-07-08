@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio files
+.vs/
+
+# Others
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db

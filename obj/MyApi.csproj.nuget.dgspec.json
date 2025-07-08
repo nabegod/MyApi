@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W517280\\MyApi\\MyApi.csproj": {}
+    "C:\\Users\\Igorh\\OneDrive\\Desktop\\projetos\\MyApi\\MyApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W517280\\MyApi\\MyApi.csproj": {
+    "C:\\Users\\Igorh\\OneDrive\\Desktop\\projetos\\MyApi\\MyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W517280\\MyApi\\MyApi.csproj",
+        "projectUniqueName": "C:\\Users\\Igorh\\OneDrive\\Desktop\\projetos\\MyApi\\MyApi.csproj",
         "projectName": "MyApi",
-        "projectPath": "C:\\Users\\W517280\\MyApi\\MyApi.csproj",
-        "packagesPath": "C:\\Users\\W517280\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W517280\\MyApi\\obj\\",
+        "projectPath": "C:\\Users\\Igorh\\OneDrive\\Desktop\\projetos\\MyApi\\MyApi.csproj",
+        "packagesPath": "C:\\Users\\Igorh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igorh\\OneDrive\\Desktop\\projetos\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\W517280\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Igorh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -76,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
